@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dylancortez727, also known as Dylan
+- 👋 Hi, I’m @crypticazure, also known as Dylan
 - 👀 I’m interested in developing web applications and data system management
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
