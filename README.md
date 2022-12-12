@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crypticazure, also known as Dylan
+- 👋 Hi, my name is Dylan
 - 👀 I’m interested in developing web applications and data system management
-- 🌱 I’m currently learning Python, HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I have a strong grasp on Python, JavaScript, HTML, and CSS, and am currently learning SQL and Cybersecurity practices
+- 💞️ I’m looking to collaborate on any projects involving Python for back-end management or JavaScript and CSS for front-end management, as well as data analysis projects.
 - 📫 How to reach me: email dylancortez727@gmail.com
 
 <!---
